@@ -1,0 +1,4 @@
+FAQ REA-Reverse-Engineer-Anything
+Offline zip from this repo.
+Windows 10/11 x64.
+Stamp rev-f2b63d-20261011

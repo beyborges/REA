@@ -1,0 +1,3 @@
+CHANGELOG REA-Reverse-Engineer-Anything
+6.3.0 2026-10-10
+Stamp rev-f2b63d-20261011

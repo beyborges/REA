@@ -1,0 +1,4 @@
+USAGE REA-Reverse-Engineer-Anything
+npx setup. Optional Ghidra.
+Extract. Run. See readme.
+Stamp rev-f2b63d-20261011

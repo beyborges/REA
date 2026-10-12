@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+out/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+
+# Package archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Logs and temps
+*.log
+npm-debug.log*
+yarn-error.log*
+*.tmp
+*.temp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors / tooling
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
